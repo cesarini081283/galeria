@@ -1,1 +1,1 @@
-Esta es una galeria
+Esta es una galeria 2
